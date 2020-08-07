@@ -34,3 +34,11 @@ bundler exec jekyll serve
 # View website at localhost:4000
 
 ```
+
+## Build
+
+To build the website as a static website use the command
+```bash
+bundler exec jekyll build
+# Will output website to ./_build
+```
