@@ -40,5 +40,5 @@ bundler exec jekyll serve
 To build the website as a static website use the command
 ```bash
 bundler exec jekyll build
-# Will output website to ./_build
+# Will output website to ./_site
 ```
