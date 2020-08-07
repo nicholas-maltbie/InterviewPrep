@@ -22,8 +22,8 @@ title: Interview prep
 email: nick.dmalt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Interview prep website for Satya's Squad[rilateral]
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/InterviewPrep"
+url: "https://nicholas-maltbie.github.io/InterviewPrep"
 github_username:  nicholas-maltbie
 
 # Build settings
