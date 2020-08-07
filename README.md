@@ -3,7 +3,7 @@ Satya's Squad[rilateral] interview prep notes
 
 # Viewing the Website
 
-This is a blog website and can be viewed at 
+This is a blog website and can be viewed at [https://nicholas-maltbie.github.io/InterviewPrep](https://nicholas-maltbie.github.io/InterviewPrep)
 
 # Setup
 
