@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+Shared interview prep notes and suggestions from Satya's Squad\[rilateral\]
+

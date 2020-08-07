@@ -18,6 +18,8 @@ and various details are up to date and correct.
 
 View the website using the following commands:
 ```bash
+# May need to execute `bundle update` or `bundle install` to ensure
+# that you have up to date plugins and execution
 bundler exec jekyll serve
 ```
 

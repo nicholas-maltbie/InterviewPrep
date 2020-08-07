@@ -28,8 +28,7 @@ git clone git@github.com:nicholas-maltbie/InterviewPrep.git
 
 # See current website with command
 cd ~/projects/InterviewPrep
-bundler install
-bundler update
+bundle install
 bundler exec jekyll serve
 
 # View website at localhost:4000
